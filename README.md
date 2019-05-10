@@ -21,17 +21,41 @@ The best thing you can do to prevent Google from spying on you is install an eff
 
 While Google remains the king of search engines, you can always try DuckDuckGo and Bing
 
-## Music
+## Email
+
+Google scrapes all your email content.  Literally every word that comes through your gmail is stored and analyzed later to deliver you the most relevant ads.
+
+- [Proton Mail]() - A encrypted e-email service with a limitted free teir that shoudl be good enough for personnal use
+
+Be careful, google has been known to use it's translations 'feature' to scrape your Proton Email accounts.  Make sure to only access your e-mail in Firefox or Safari
+
+## Google Music
 
 Google Music allows you to stream your own music collection.  But did you know you can use software to just access your music from your home computer for free?
 
 - SubSonic
 
-## Video
+## Video Streaming
 
-Jsut like music, you can setup a program to access all your videoes on your home computer
+Like music, you can setup a program to access all your videoes on your home computer
 
 - [Plex]() - 
 - [Emby]() -
 
-## 
+## SmartPhone
+
+The easiest solution is to by an iPhone.  Apple has a track record
+
+## Google Play
+
+F-Droid
+
+## Analytics
+
+TODO
+
+## Captcha
+
+TODO
+
+
